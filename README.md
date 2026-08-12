@@ -1,6 +1,6 @@
 # Playwright E2E Automation
 
-Projeto de automação de testes end-to-end da aplicação SauceDemo utilizando Playwright + TypeScript. O objetivo deste repositório é demonstrar boas práticas de Quality Engineering, com foco em automação E2E, organização da suíte, Page Object Model, locators resilientes e execução cross-browser.
+Projeto de automação de testes end-to-end (E2E) desenvolvido com Playwright e TypeScript sobre a aplicação SauceDemo, com foco em boas práticas de Quality Engineering, organização da suíte, Page Object Model, estabilidade e execução cross-browser.
 
 ## 1. Objetivo do projeto
 
@@ -73,9 +73,7 @@ Essa estrutura mantém a lógica de teste em arquivos de spec e centraliza a int
 ├── package-lock.json
 ├── package.json
 ├── playwright.config.ts
-├── playwright-report/
-├── README.md
-└── test-results/
+└── README.md
 ```
 
 ## 6. Cenários automatizados
@@ -205,6 +203,5 @@ Essas funcionalidades ainda não estão implementadas na estrutura atual do repo
 
 **Gabriel Amaral**
 
-## Resumo
-
-Este repositório apresenta uma estrutura profissional de automação E2E com Playwright + TypeScript, aplicada à aplicação SauceDemo. O projeto demonstra boas práticas de Quality Engineering, organização por Page Object Model, testes independentes e execução cross-browser, mantendo foco em legibilidade, manutenção e redução de flakiness.
+- GitHub: [Gabriel950Amaral](https://github.com/Gabriel950Amaral)
+- LinkedIn: [Gabriel Amaral]
